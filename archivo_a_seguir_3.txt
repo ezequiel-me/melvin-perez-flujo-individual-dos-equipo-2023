@@ -1,2 +1,3 @@
 seguir_3.txt
 seguir_3_B.txt
+seguir_3_A.txt
